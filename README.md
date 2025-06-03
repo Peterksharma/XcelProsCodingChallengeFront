@@ -249,24 +249,3 @@ src/
   routes/
     auth.routes.ts        # Auth endpoints
 ```
-
----
-
-## Contact
-
-If you have any questions or issues, please contact the maintainer at [your-email@example.com].
-
----
-
-## (Optional) Backend Setup for Local Development
-
-If you want to run the backend locally (not required for the interview):
-
-- Set the following environment variables:
-  - `MONGODB_URI`: MongoDB connection string.
-  - `JWT_SECRET`: Secret for signing JWT tokens.
-- Install dependencies and start the server:
-  ```sh
-  npm install
-  npm run dev
-  ``` 
